@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SENTENSES>
+<SENTENCE url="mp3/DSA-NORM_01.mp3" tekst="I morgen" fixed="for"/> 
+
+<SENTENCE url="mp3/DSA-NORM_02.mp3" tekst="hele familien rejser på ferie." fixed="none"/> 
+
+<SENTENCE url="mp3/DSA-NORM_03.mp3" tekst="på ferie rejser hele familien." fixed="none"/>
+
+<SENTENCE url="mp3/DSA-NORM_04.mp3" tekst="rejser hele familien på ferie."fixed="none" svar ="true"/>
+
+<SENTENCE url="mp3/DSA-NORM_05.mp3" tekst="familien hele på ferien rejser."fixed="none"/>
+
+
+
+<SENTENCE url="mp3/DSA-NORM_06.mp3" tekst="Butikken har lukket" fixed="none" svar ="true"/> 
+
+<SENTENCE url="mp3/DSA-NORM_07.mp3" tekst="Lukket har butikken" fixed="none"/> 
+
+<SENTENCE url="mp3/DSA-NORM_08.mp3" tekst="Har lukket butikken" fixed="none"/>
+
+<SENTENCE url="mp3/DSA-NORM_09.mp3" tekst="Butikken lukket har"fixed="none" />
+
+<SENTENCE url="mp3/DSA-NORM_10.mp3" tekst="om fredagen." fixed="bag"/>
+
+
+
+<SENTENCE url="mp3/DSA-NORM_11.mp3" tekst="Vi skal køre" fixed="none" svar ="true"/> 
+
+<SENTENCE url="mp3/DSA-NORM_12.mp3" tekst="Køre skal vi" fixed="none"/> 
+
+<SENTENCE url="mp3/DSA-NORM_13.mp3" tekst="Vi køre skal" fixed="none"/>
+
+<SENTENCE url="mp3/DSA-NORM_14.mp3" tekst="Skal vi køre"fixed="none" />
+
+<SENTENCE url="mp3/DSA-NORM_15.mp3" tekst="nu." fixed="bag"/>
+
+
+
+<SENTENCE url="mp3/DSA-NORM_16.mp3" tekst="Om foråret" fixed="for" /> 
+
+<SENTENCE url="mp3/DSA-NORM_17.mp3" tekst="alle blomsterne ud springer." fixed="none"/> 
+
+<SENTENCE url="mp3/DSA-NORM_18.mp3" tekst="springer alle blomsterne ud." fixed="none" svar ="true"/>
+
+<SENTENCE url="mp3/DSA-NORM_19.mp3" tekst="alle blomsterne springer ud."fixed="none" />
+
+<SENTENCE url="mp3/DSA-NORM_20.mp3" tekst="springer ud alle blomsterne." fixed="none"/>
+
+
+
+<SENTENCE url="mp3/DSA-NORM_21.mp3" tekst="Nu" fixed="for" /> 
+
+<SENTENCE url="mp3/DSA-NORM_22.mp3" tekst="bliver nødt til min madpakke at spise" fixed="none"/> 
+
+<SENTENCE url="mp3/DSA-NORM_23.mp3" tekst="min madpakke bliver nødt til at spise" fixed="none"/>
+
+<SENTENCE url="mp3/DSA-NORM_24.mp3" tekst="jeg bliver nødt til at spise min madpakke"fixed="none" />
+
+<SENTENCE url="mp3/DSA-NORM_25.mp3" tekst="bliver jeg nødt til at spise min madpakke" fixed="none" svar ="true"/>
+
+
+
+<SENTENCE url="mp3/DSA-NORM_26.mp3" tekst="Kommer hun ikke" fixed="none" svar ="true"/> 
+
+<SENTENCE url="mp3/DSA-NORM_27.mp3" tekst="Hun ikke kommer" fixed="none"/> 
+
+<SENTENCE url="mp3/DSA-NORM_28.mp3" tekst="Hun kommer ikke" fixed="none"/>
+
+<SENTENCE url="mp3/DSA-NORM_29.mp3" tekst="Kommer ikke hun"fixed="none" />
+
+<SENTENCE url="mp3/DSA-NORM_30.mp3" tekst="i dag?" fixed="bag"/>
+
+
+
+<SENTENCE url="mp3/DSA-NORM_31.mp3" tekst="I dag" fixed="for" /> 
+
+<SENTENCE url="mp3/DSA-NORM_32.mp3" tekst="for at blive klippet korthåret jeg skal til frisøren" fixed="none"/> 
+
+<SENTENCE url="mp3/DSA-NORM_33.mp3" tekst="jeg skal til frisøren for at blive klippet korthåret" fixed="none"/>
+
+<SENTENCE url="mp3/DSA-NORM_34.mp3" tekst="skal jeg til frisøren for at blive klippet korthåret"fixed="none" svar ="true"/>
+
+<SENTENCE url="mp3/DSA-NORM_35.mp3" tekst="til frisøren skal jeg for at blive klippet korthåret" fixed="none"/>
+
+
+
+
+
+<SENTENCE url="mp3/DSA-NORM_37.mp3" tekst="Fuglene sulter og fryser i sneen" fixed="none" svar ="true"/> 
+
+<SENTENCE url="mp3/DSA-NORM_38.mp3" tekst="Sulter og fryser fuglene i sneen" fixed="none"/>
+
+<SENTENCE url="mp3/DSA-NORM_39.mp3" tekst="Sulter fuglene og fryser i sneen"fixed="none" />
+
+<SENTENCE url="mp3/DSA-NORM_40.mp3" tekst="I sneen fuglene sulter og fryser " fixed="none"/>
+
+<SENTENCE url="mp3/DSA-NORM_41.mp3" tekst="om vinteren" fixed="bag" /> 
+
+
+
+<SENTENCE url="mp3/DSA-NORM_36.mp3" tekst="Om vinteren" fixed="for"/> 
+
+<SENTENCE url="mp3/DSA-NORM_37.mp3" tekst="fuglene sulter og fryser i sneen." fixed="none"/> 
+
+<SENTENCE url="mp3/DSA-NORM_38.mp3" tekst="sulter og fryser fuglene i sneen." fixed="none" svar ="true"/>
+
+<SENTENCE url="mp3/DSA-NORM_40.mp3" tekst="i sneen fuglene sulter og fryser." fixed="none"/>
+
+
+
+
+
+<SENTENCE url="mp3/DSA-NORM_17.mp3" tekst="Alle blomsterne ud springer" fixed="none"/> 
+
+<SENTENCE url="mp3/DSA-NORM_18.mp3" tekst="Springer alle blomsterne ud" fixed="none"/>
+
+<SENTENCE url="mp3/DSA-NORM_19.mp3" tekst="Alle blomsterne springer ud"fixed="none" svar ="true"/>
+
+<SENTENCE url="mp3/DSA-NORM_20.mp3" tekst="Springer ud alle blomsterne" fixed="none"/>
+
+<SENTENCE url="mp3/DSA-NORM_46.mp3" tekst="om foråret." fixed="bag"/> 
+
+
+
+<SENTENCE url="mp3/DSA-NORM_47.mp3" tekst="I Københavns Kommune" fixed="for"/> 
+
+<SENTENCE url="mp3/DSA-NORM_48.mp3" tekst="skolerne tilbyder at undervise i homo-, bi- og transseksualitet." fixed="none"/> 
+
+<SENTENCE url="mp3/DSA-NORM_49.mp3" tekst="tilbyder at undervise skolerne i homo-, bi- og transseksualitet." fixed="none"/>
+
+<SENTENCE url="mp3/DSA-NORM_50.mp3" tekst="at undervise i homo-, bi- og transseksualitet tilbyder skolerne."fixed="none" />
+
+<SENTENCE url="mp3/DSA-NORM_51.mp3" tekst="tilbyder skolerne at undervise i homo-, bi- og transseksualitet." fixed="none" svar ="true"/>
+
+
+
+<SENTENCE url="mp3/DSA-NORM_52.mp3" tekst="Fra næste skoleår " fixed="for"/> 
+
+<SENTENCE url="mp3/DSA-NORM_53.mp3" tekst="bliver tilladt Google Translate som hjælpemiddel under skriftlig eksamen." fixed="none"/> 
+
+<SENTENCE url="mp3/DSA-NORM_54.mp3" tekst="bliver Google Translate tilladt som hjælpemiddel under skriftlig eksamen." fixed="none" svar ="true"/>
+
+<SENTENCE url="mp3/DSA-NORM_55.mp3" tekst="under skriftlig eksamen Google Translate bliver tilladt som hjælpemiddel "fixed="none" />
+
+<SENTENCE url="mp3/DSA-NORM_56.mp3" tekst="Google Translate bliver tilladt som hjælpemiddel under skriftlig eksamen." fixed="none" />
+
+
+</SENTENSES>

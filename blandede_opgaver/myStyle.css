@@ -1,0 +1,29 @@
+body
+{
+font-family:"verdana";
+font-size:11px;
+line-height:140%;
+}
+h3
+{
+font-family:"arial";
+font-size:18px;
+color:#42453B;
+}
+
+table, td, tr{ 
+
+border-spacing: 0px;
+border: 1px solid #dddddd;
+}
+
+.rigtig{
+color: green;
+display: inline;
+}
+
+
+.forkert{
+color: red;
+display: inline;
+}
